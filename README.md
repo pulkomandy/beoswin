@@ -3,4 +3,4 @@ It was designed for Windows 95/98, and not updated since then, so don't expect m
 
 Copied from http://www.robsons.org.uk/archive/users.aol.com/chchillsch/index.htm.
 
-License still unknown, ask the original author and let me know!
+Released here under the terms of the MIT license after agreement from original author.
